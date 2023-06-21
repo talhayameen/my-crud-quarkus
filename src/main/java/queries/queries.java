@@ -29,4 +29,5 @@ public class queries {
     // public String update_userProfileByUserId(int user_id){
     //     return "UPDATE USERS SET "
     // }
+    
 }

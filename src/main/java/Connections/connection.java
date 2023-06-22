@@ -17,7 +17,6 @@ public class connection {
     @Inject
     AgroalDataSource source;
     
-
     @Inject
     Logger log;
 
